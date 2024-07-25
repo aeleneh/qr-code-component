@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+
+.background-img {
+    /*background-image: url('/qr-code-component-main/images/favicon-32x32.png');*/
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #D9E4F0;
+}
+
+
+.image {
+    display: block;
+    margin: 0 auto;
+    max-width: 270px;
+    height: auto;
+    border-radius: 10px;
+}
+  
+.improve-skills {
+    background-color: #fff;
+    width: 300px;
+    padding: 1rem;
+    margin: 200px auto;
+    border-radius: 20px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.building-proj {
+    color: #363F48;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.next-level {
+    color: #68768C;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
