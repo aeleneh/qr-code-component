@@ -3,14 +3,13 @@
 }
 
 .background-img {
-    /*background-image: url('/qr-code-component-main/images/favicon-32x32.png');*/
-    background-repeat: no-repeat;
-    background-size: contain;
+    
     background-position: center;
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
     background-color: #D9E4F0;
+    min-height: 100vh;
 }
 
 
