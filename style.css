@@ -23,7 +23,7 @@
     background-color: #fff;
     width: 300px;
     padding: 1rem;
-    margin-bottom: 250px auto;
+    margin-bottom: auto 250px;
     border-radius: 20px;
     display: flex;
     justify-items: center;
